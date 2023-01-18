@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    background-color: #A3C7D6;
+    font-family: 'Roboto Slab', serif;
+    color: #3F3B6C;
+}
+
+.navbar{
+    background-color: #624F82; 
+    position: sticky;
+    top: 0;  
+}
+.img-navbar{
+    width: 35%;
+}
+.vazio{
+    padding: 0;
+}
+
+.h2{
+    text-align: center;
+    padding-top: 2%;
+    padding: 2em;
+}
+
+.paragrafo-jogos-online{
+    padding: 2%;
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly; 
+}
+
+.img-jogos-oline-1{
+    width: 500px;    
+}
+.img-jogos-oline-2{
+    width: 500px;
+}
+.container-jogos-olines{
+    display: flex;
+    justify-content: space-evenly; 
+}
+.img-type2{
+    width: 500px;
+    padding-top: 15px;
+}
+.paragrafo-type2{
+    width: 400px;
+    padding-top: 2em;
+}
+
+.img-type1{
+    width: 500px;
+    padding-top: 15px;
+}
+.paragrafo-type1{
+    width: 400px;
+    padding-top: 2em;
+}
+footer{
+    padding: 2%;
+}

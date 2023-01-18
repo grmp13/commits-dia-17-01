@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+.navbar {
+    background-color: #0057DF;
+    height: 150px;
+}
+
+.h2-navbar {
+    font-family: Black Han Sans;
+
+}
+
+.footer-bar {
+    background-color: #D9D9D9;
+    display: flex;
+
+}
+
+.logo-footer-bar {
+    width: 250px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding-top: 10px;
+}
+
+.div2 {
+    display: flex;
+    align-items: flex-end;
+}
+
+.p-footer {
+    width: 400px;
+    text-align: end;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    font-size: larger;
+}
+footer{
+    height: 150px;
+}
